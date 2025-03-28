@@ -1,0 +1,15 @@
+C:\SageNA\hello-github-actions\PROJECT_NAME\bin\Release\net8.0\PROJECT_NAME.exe
+C:\SageNA\hello-github-actions\PROJECT_NAME\bin\Release\net8.0\PROJECT_NAME.deps.json
+C:\SageNA\hello-github-actions\PROJECT_NAME\bin\Release\net8.0\PROJECT_NAME.runtimeconfig.json
+C:\SageNA\hello-github-actions\PROJECT_NAME\bin\Release\net8.0\PROJECT_NAME.dll
+C:\SageNA\hello-github-actions\PROJECT_NAME\bin\Release\net8.0\PROJECT_NAME.pdb
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.AssemblyInfoInputs.cache
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.AssemblyInfo.cs
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.csproj.CoreCompileInputs.cache
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.sourcelink.json
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.dll
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\refint\PROJECT_NAME.dll
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.pdb
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\PROJECT_NAME.genruntimeconfig.cache
+C:\SageNA\hello-github-actions\PROJECT_NAME\obj\Release\net8.0\ref\PROJECT_NAME.dll
